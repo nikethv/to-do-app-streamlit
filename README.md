@@ -1,7 +1,4 @@
-📋 README.md
-markdown
-Copy
-Edit
+
 # 📝 To-Do List Web App (Streamlit + MongoDB)
 
 This is a simple, user-friendly task management web app built using **Streamlit** for the frontend and **MongoDB** for backend data storage. Users can register, log in, add tasks with due dates, and automatically close overdue tasks.
