@@ -70,5 +70,5 @@ for task in tasks:
             st.success("✅ Task Updated!")
             st.rerun()
 
-    st.divider()
+    st.divider()   
 
